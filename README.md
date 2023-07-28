@@ -223,6 +223,3 @@ Subject Areas:
 | Week 22| CARS Practice  | CARS Practice | Full-Length    | Full-Length   | Full-Length    |
 | Week 23| Full-Length    | Full-Length   | Full-Length    | Full-Length   | Full-Length    |
 | Week 24| Full-Length    | Full-Length   | Full-Length    | Full-Length   | Rest           |
-
-
-![image](https://github.com/iShayanNabi/MCAT/assets/118579365/091b35f3-871d-4e83-9979-455d7e30e8d1)
